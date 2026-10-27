@@ -401,7 +401,7 @@ window.addEventListener("resize", function () {
 });
 
 function nextPage() {
-  window.location.href = "https://ariefky.github.io/cake1/";
+  window.location.href = "https://riiippriiipp.github.io/cake1/";
 }
 
 setTimeout(() => {
